@@ -17,6 +17,10 @@ The [dataset](https://www.who.int/data/gho/data/indicators/indicator-details/GHO
 
 - A frequency distribution plot of tobacco consumption values for both sexes in 2020 reveals a peak around 10 percent, with a concentration between 5 and 10 percent.
 - Further analysis shows that the density distribution of males appears close to normal, while females exhibit a different distribution.
+- 
+| Frequency plot dist.               | Density plot dist.               |
+:-------------------------:|:-------------------------:
+![frequency dist](https://github.com/Arcaici/TobaccoControlMonitor_WHO/tree/main/figures/figure1.png)  |  ![density dist](https://github.com/Arcaici/TobaccoControlMonitor_WHO/tree/main/figures/figure2.png)
 
 ### Distribution by Geographic Areas
 
