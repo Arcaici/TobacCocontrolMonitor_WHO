@@ -20,7 +20,7 @@ The [dataset](https://www.who.int/data/gho/data/indicators/indicator-details/GHO
 - 
 | Frequency plot dist.               | Density plot dist.               |
 :-------------------------:|:-------------------------:
-![frequency dist](https://github.com/Arcaici/TobaccoControlMonitor_WHO/tree/main/figures/figure1.png)  |  ![density dist](https://github.com/Arcaici/TobaccoControlMonitor_WHO/tree/main/figures/figure2.png)
+![frequency dist](./figures/figure1.png)  |  ![density dist](./figures/figure2.png)
 
 ### Distribution by Geographic Areas
 
@@ -28,15 +28,27 @@ The [dataset](https://www.who.int/data/gho/data/indicators/indicator-details/GHO
 - The Western Pacific area has the highest percentage of tobacco consumers when considering both sexes.
 - When divided by sex, the highest values are found in different areas for males and females.
 
+| Violin plot dist.               | Box plot dist.               |
+:-------------------------:|:-------------------------:
+![violin dist](./figures/figure3.png)  |  ![density dist](./figures/figure4.png)
+
 ### Mean Value Over Geographic Areas
 
 - Histogram plots display the mean tobacco consumption values for various geographic areas in 2020.
 - Europe and South-East Asia have higher mean values compared to other areas, with variations between males and females.
 
+| Hist plot dist.               | Hist plot dist. over sex              |
+:-------------------------:|:-------------------------:
+![violin dist](./figures/figure5.png)  |  ![density dist](./figures/figure6.png)
+
 ### Mean Value Over Years
 
 - Time series plots reveal the trend in mean tobacco consumption values from 2000 to 2020.
 - All areas show a decreasing trend in mean values, with variations among geographic regions and between genders.
+
+| Scatter plot dist.               | Scatter plot dist. over sex              |
+:-------------------------:|:-------------------------:
+![violin dist](./figures/figure7.png)  |  ![density dist](./figures/figure8.png)
 
 ## Statistical Tests
 
