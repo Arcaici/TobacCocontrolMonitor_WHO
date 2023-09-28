@@ -1,4 +1,4 @@
-# TobacCocontrolMonitor_WHO
+# TobaccoControlMonitor_WHO
 Exploratory Data Analysis of Tobacco Usage (2010-2020)
 ------------------------------------------------------
 This repository contains an exploratory data analysis (EDA) of tobacco usage trends from 2010 to 2020. The analysis utilizes data from the World Health Organization (WHO) and aims to provide insights into tobacco consumption patterns, differences between genders, and variations across geographic regions.
