@@ -9,7 +9,7 @@ Tobacco usage is a significant global health concern, leading to millions of dea
 
 ## Dataset
 
-The dataset used for this analysis is called 'Non-age-standardized estimates of current tobacco use, tobacco smoking, and cigarette smoking (Tobacco Control: Monitor),' provided by the World Health Organization. It contains information on tobacco consumption percentages for various countries, years, and genders. The data is based on a statistical model that estimates tobacco use in populations aged 15 and over.
+The [dataset](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-tobacco-control-monitor-current-tobaccouse-tobaccosmoking-cigarrettesmoking-nonagestd-tobnonagestdcurr) used for this analysis is called 'Non-age-standardized estimates of current tobacco use, tobacco smoking, and cigarette smoking (Tobacco Control: Monitor),' provided by the World Health Organization. It contains information on tobacco consumption percentages for various countries, years, and genders. The data is based on a statistical model that estimates tobacco use in populations aged 15 and over.
 
 ## Exploratory Analysis
 
@@ -50,5 +50,5 @@ The dataset used for this analysis is called 'Non-age-standardized estimates of 
 
 This EDA provides valuable insights into tobacco usage trends, aiding in the development of effective public health strategies to combat tobacco-related health issues.
 
-For detailed analysis and code, please refer to the Jupyter Notebook provided in this repository.
+For detailed analysis please refer to the [documentation](https://github.com/Arcaici/TobaccoControlMonitor_WHO/blob/main/documentation/Tobacco_Usage_WHO_article.pdf) , while the fulll code can be found [here](https://github.com/Arcaici/TobaccoControlMonitor_WHO/blob/main/tobacco_eda.R)
 
